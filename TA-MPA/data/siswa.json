@@ -1,0 +1,48 @@
+{
+  "siswa": [
+    {
+      "nama": "Arya Facmi Sutankanahaya",
+      "kelas": "XI RPL 2",
+      "jenis kelamin": "L",
+      "nilai": {
+        "matematika": [86, 82, 95, 88],
+        "agama": [86, 82, 95, 88],
+        "fisika": [86, 82, 95, 88],
+        "pkn": [86, 82, 95, 88],
+        "bahasa indonesia": [86, 82, 95, 88],
+        "bahasa inggris": [86, 82, 95, 88],
+        "pjok": [86, 82, 95, 88]
+      }
+    },
+
+    {
+      "nama": "Firdan Umar Arisyawal",
+      "kelas": "XI RPL 2",
+      "jenis kelamin": "L",
+      "nilai": {
+        "matematika": [86, 82, 95, 88],
+        "agama": [86, 82, 95, 88],
+        "fisika": [86, 82, 95, 88],
+        "pkn": [86, 82, 95, 88],
+        "bahasa indonesia": [86, 82, 95, 88],
+        "bahasa inggris": [86, 82, 95, 88],
+        "pjok": [86, 82, 95, 88]
+      }
+    },
+
+    {
+      "nama": "Husni Januarsyah",
+      "kelas": "XI RPL 2",
+      "jenis kelamin": "L",
+      "nilai": {
+        "matematika": [86, 82, 95, 88],
+        "agama": [86, 82, 95, 88],
+        "fisika": [86, 82, 95, 88],
+        "pkn": [86, 82, 95, 88],
+        "bahasa indonesia": [86, 82, 95, 88],
+        "bahasa inggris": [86, 82, 95, 88],
+        "pjok": [86, 82, 95, 88]
+      }
+    }
+  ]
+}
